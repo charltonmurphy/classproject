@@ -1,0 +1,5 @@
+name = input("Please type your name? ")
+if name == "sonu":
+        print ("Welcome Sonu")
+else:
+        print ("UNAUTHORIZED")
